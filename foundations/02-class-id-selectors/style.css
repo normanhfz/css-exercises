@@ -1,0 +1,12 @@
+/* styles.css */
+
+.cool {
+    background-color: hotpink;   
+    color : green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.cooler {
+    font-size: 30px;
+}
