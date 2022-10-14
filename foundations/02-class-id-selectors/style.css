@@ -3,10 +3,21 @@
 .cool {
     background-color: hotpink;   
     color : green;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, DejaVu, sans-serif;
     font-size: 20px;
 }
 
-.cooler {
-    font-size: 30px;
+.cooler-1 {
+    font-size: 24px;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
